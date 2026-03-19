@@ -70,7 +70,7 @@ The final cells of the notebook handle predictions on the test set. Upon complet
 * `submission_qwen_qlora.csv`: A two-column CSV (`ID`, `LABEL`) ready for final scoring/submission on Kaggle.
 
 
-## 👤 Author
+##  Author
 * **Name:** Amirhesam Torkashvand
 * **Matricola:** S336838
 * **Kaggle Username:** amirhesamaht
