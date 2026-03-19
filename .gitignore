@@ -1,0 +1,49 @@
+# Python & Environments
+
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+ENV/
+
+
+# Jupyter Notebooks
+
+.ipynb_checkpoints/
+
+
+# Data & Large Files
+
+data/*
+!data/.gitkeep
+
+*.npy
+*.npz
+*.parquet
+*.csv 
+
+!results/
+!results/*
+
+
+# Model Weights & Checkpoints
+# Hugging Face and PyTorch artifacts
+
+*.pt
+*.pth
+*.bin
+*.safetensors
+checkpoint-*/
+outputs/
+runs/
+wandb/
+
+
+# OS Generated Files
+
+.DS_Store
+.DS_Store?
+Thumbs.db
