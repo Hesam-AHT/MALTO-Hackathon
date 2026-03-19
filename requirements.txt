@@ -1,0 +1,19 @@
+# PyTorch
+torch>=2.0.0
+
+# Hugging Face Ecosystem (Model, Tokenizer, Training)
+transformers>=4.37.0
+peft
+bitsandbytes
+accelerate
+datasets
+trl
+
+# Data Processing and Metrics
+numpy
+pandas
+scikit-learn
+
+# Jupyter Environment
+jupyter
+ipywidgets
